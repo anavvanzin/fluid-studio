@@ -1,0 +1,13 @@
+# dependências
+node_modules/
+qa/node_modules/
+
+# build
+dist/
+
+# qa visual
+qa/shots/
+
+# logs e sistema
+*.log
+.DS_Store
