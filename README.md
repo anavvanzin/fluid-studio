@@ -1,5 +1,7 @@
 # fluid-studio (instância av-os)
 
+**Ao vivo:** https://anavvanzin.github.io/fluid-studio/ (GitHub Pages, branch `gh-pages`)
+
 Reconstrução do app React "fluid-studio" adaptado ao design system av-os de
 anavanzin.com — build de outubro/2026 perdido com a máquina anterior (commit
 local `c2b7639`, nunca enviado ao GitHub), reescrito a partir da transcrição
